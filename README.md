@@ -4,4 +4,4 @@
 
 ## 本项目已合并至 Jianghu Wiki
 
-请移步 [Jianghu Wiki](https://wiki.lioil.live/zh/wiki/digital-privacy/I-dont-wanna-read-it/) 。
+请移步 [Jianghu Wiki](https://wiki.lioil.live/wiki/digital-privacy/I-dont-wanna-read-it/) 。
