@@ -4,4 +4,4 @@
 
 ## 本项目已合并至 Jianghu Wiki
 
-请移步 [Jianghu Wiki](https://wiki.lioil.live/dp/i-dont-wanna-read-it/) 。
+请移步 [Jianghu Wiki](https://www.jhwiki.com/digitallife/i-dont-wanna-read-it/instruction/) 。
